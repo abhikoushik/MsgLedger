@@ -61,3 +61,8 @@ MsgLedger works as your default Android SMS app for direct message reception, se
 Developed by Abhiram K Suryaprakash. MsgLedger is actively under development, and feedback, suggestions and bug reports are welcome at abhiramksuryaprakash@gmail.com.
 
 © 2026 Abhiram K Suryaprakash. All rights reserved.
+<a href="https://github.com/angular/angular-ja/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
